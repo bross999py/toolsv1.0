@@ -1,0 +1,48 @@
+body {
+    margin: auto;
+    padding: 0px;
+    font-size: 17px;
+
+}
+.wrapper {
+    width: 600px;
+    margin: auto;
+}
+nav > .wrapper {
+    display: flex;
+    justify-content: space-between;
+    border: 2px solid;
+    background-color: grey;
+
+}
+.menu {
+    display: flex;
+    list-style-type: none;
+    margin: 0px;
+    padding: 0px
+    background-color: grey;
+}
+.menu ul {
+    display: flex;
+    list-style-type: none;
+    background-color: grey;
+    justify-content: space-between;
+
+}
+#foto {
+  margin: 0px;
+  
+}
+.tentang {
+  border: 3px ;
+  border-radius: 20px;
+  border-color: crimson;
+  border-style: inset;
+  
+}
+.teksgw {
+  font-family: Times New Roman;
+}
+.fotoo {
+  width: 150px;
+}
