@@ -1,0 +1,30 @@
+body {
+    margin: auto;
+    padding: 0px;
+    font-size: 17px;
+
+}
+.wrapper {
+    width: 1024px;
+    margin: auto;
+}
+nav > .wrapper {
+    display: flex;
+    justify-content: space-between;
+    border: 2px solid;
+
+}
+.menu {
+    width: 50%;
+    border: 1px solid;
+    display: flex;
+    list-style-type: none;
+    margin: 0px;
+    padding: 0px;
+    justify-content: space-between;
+}
+.menu ul {
+    display: flex;
+    justify-content: space-around;
+
+}
